@@ -2,7 +2,7 @@ import streamlit as st
 import cv2
 import numpy as np
 import json
-import mediapipe as mp
+# import mediapipe as mp
 import easyocr
 import face_recognition
 import torch
